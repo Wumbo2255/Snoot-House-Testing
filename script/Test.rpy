@@ -1,4 +1,4 @@
-label Test:
+label shTest:
     stop music fadeout 2
     pause 2
      

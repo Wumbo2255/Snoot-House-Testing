@@ -9,6 +9,6 @@ define pootis = "mods/SnootHouse/assets/audio/SFX/pootis.mp3"
 define hegg = "mods/SnootHouse/assets/audio/SFX/heavyegg.ogg"
 define endingvar = 0
 
-label snoothouse_storyline:
-    call Test
+label snoothousetest_storyline:
+    call shTest
     return

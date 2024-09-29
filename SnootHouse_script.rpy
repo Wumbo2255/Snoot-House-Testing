@@ -5,10 +5,10 @@ init python:
 
     mod_menu_access += [{
         'Name': "Snoot House",
-        'Label': "snoothouse"
+        'Label': "snoothousetest"
     }];
 
-label snoothouse:
-    call snoothouse_storyline
+label snoothousetest:
+    call snoothousetest_storyline
 
     return
