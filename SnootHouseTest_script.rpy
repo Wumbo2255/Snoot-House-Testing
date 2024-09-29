@@ -4,7 +4,7 @@ init python:
     # and finally the label that controls the flow of dialogue
 
     mod_menu_access += [{
-        'Name': "Snoot House",
+        'Name': "Snoot House Test",
         'Label': "snoothousetest"
     }];
 
