@@ -39,7 +39,7 @@ label shTest:
             xzoom 2
             yzoom 2
             ease 0.1
-        play voice hegg volume 0.4
+        play voice hegg volume 0.8
         Hvy "Heavy will now lay egg in your mouth."
         "E[endingvar]"
         return
