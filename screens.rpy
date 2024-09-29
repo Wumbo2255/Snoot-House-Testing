@@ -6,7 +6,7 @@ screen anonSeesAGOST():
     imagebutton:
         xcenter 0.6964
         ycenter 0.45
-        idle "mods/SnootHouse/assets/images/screens/blankextra.png"
+        idle "mods/SnootHouseTest/assets/images/screens/blankextra.png"
         #^This is what is shown when you aren't hovering over it with your mouse.
 
         hover slenderbro
@@ -23,7 +23,7 @@ screen anonSeesAGOST():
     imagebutton:
         xcenter 0.25
         ycenter 0.45
-        idle "mods/SnootHouse/assets/images/screens/blankextra.png"
+        idle "mods/SnootHouseTest/assets/images/screens/blankextra.png"
 
         hover hoovy
         hovered Play('sound', pootis)
